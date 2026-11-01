@@ -1,0 +1,140 @@
+{
+  "titre": "Airbus maintient son cap de 870 livraisons, le fret aérien progresse de 7,7 %",
+  "edito": "Airbus a publié un résultat d'exploitation ajusté en baisse de 9 % au troisième trimestre, tout en conservant son objectif d'environ 870 livraisons en 2026, ce qui suppose 323 appareils au dernier trimestre. Côté demande, le trafic mondial de passagers a reculé de 0,5 % en septembre selon l'IATA, tandis que le fret aérien a progressé de 7,7 %. Le Moyen-Orient reste un facteur d'incertitude : les compagnies du groupe Lufthansa ont repoussé au 25 novembre la reprise de leurs vols vers Dubaï. En Asie-Pacifique, le trafic international de passagers a progressé de 0,7 %, ce qui met fin à cinq mois de baisse consécutifs.",
+  "illustration": "airliner wing sunrise",
+  "chiffre": {
+    "valeur": "+7,7 %",
+    "legende": "Progression de la demande mondiale de fret aérien en septembre 2026 sur un an, selon l'IATA, alors que le trafic passagers recule de 0,5 %.",
+    "source": {
+      "nom": "Air Journal",
+      "url": "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html"
+    }
+  },
+  "une": [
+    {
+      "titre": "Airbus : profit en baisse au 3e trimestre, objectif de 870 livraisons maintenu pour 2026",
+      "resume": "Airbus a publié le 28 octobre ses résultats à neuf mois : le résultat d'exploitation ajusté du troisième trimestre recule de 9 %, à 1,77 Md€, avec des difficultés sur les A330neo et A321neo. Sur neuf mois, le bénéfice net atteint 3,59 Md€ (+36 %) pour un chiffre d'affaires de 50,6 Md€ (+7 %). Le constructeur a livré 547 appareils à fin septembre et conserve son objectif d'environ 870 livraisons, ce qui suppose 323 avions au dernier trimestre. Il cite l'approvisionnement en moteurs, l'intégration des activités de Spirit AeroSystems et des problèmes de qualité ponctuels.",
+      "categorie": "Constructeurs & commandes",
+      "region": "Europe",
+      "sources": [
+        {
+          "nom": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/airbus-nine-month-results-deliveries-proffits"
+        },
+        {
+          "nom": "Air Journal",
+          "url": "https://www.air-journal.fr/2026-10-29-airbus-323-avions-a-livrer-en-trois-mois-pour-tenir-son-pari-de-2026-5278561.html"
+        },
+        {
+          "nom": "Air Journal",
+          "url": "https://www.air-journal.fr/2026-10-31-airbus-un-benefice-net-en-hausse-sur-neuf-mois-et-des-objectifs-maintenus-pour-2026-5278602.html"
+        }
+      ],
+      "illustration": "airliner assembly line"
+    },
+    {
+      "titre": "Trafic de septembre : passagers en recul de 0,5 % dans le monde, fret en hausse de 7,7 %",
+      "resume": "Selon l'IATA, la demande mondiale de transport de passagers a baissé de 0,5 % en septembre 2026 sur un an, un repli moins marqué qu'en août, avec le Moyen-Orient et l'Amérique du Nord en difficulté. La demande de fret aérien a progressé de 7,7 %, dans toutes les régions, mais les coûts augmentent. En Asie-Pacifique, l'AAPA relève 30,4 millions de passagers internationaux (+0,7 %), ce qui met fin à cinq mois de baisse consécutifs.",
+      "categorie": "Résultats & marchés",
+      "region": "Monde",
+      "sources": [
+        {
+          "nom": "Air Journal",
+          "url": "https://www.air-journal.fr/2026-10-31-trafic-de-passagers-la-demande-mondiale-poursuit-son-recul-penalisee-par-le-moyen-orient-5278605.html"
+        },
+        {
+          "nom": "Air Journal",
+          "url": "https://www.air-journal.fr/2026-10-31-fret-aerien-la-demande-bat-des-records-mais-les-couts-senvolent-5278606.html"
+        },
+        {
+          "nom": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/asia-pacific-airlines-end-five-month-passenger-decline-as-cargo-demand-climbs"
+        }
+      ],
+      "illustration": "airport departures board"
+    },
+    {
+      "titre": "Lufthansa, SWISS et Eurowings repoussent au 25 novembre leur retour à Dubaï",
+      "resume": "Les compagnies du groupe Lufthansa ont de nouveau reporté la reprise de leurs vols vers Dubaï, désormais fixée au 25 novembre 2026, en invoquant l'instabilité persistante au Moyen-Orient. Eurowings adopte en parallèle un programme d'hiver allégé. Les passagers concernés peuvent modifier leur réservation ou se faire rembourser.",
+      "categorie": "Compagnies & réseaux",
+      "region": "Moyen-Orient",
+      "sources": [
+        {
+          "nom": "Air Journal",
+          "url": "https://www.air-journal.fr/2026-10-26-dubai-lufthansa-swiss-et-eurowings-repoussent-encore-leur-retour-5278501.html"
+        }
+      ],
+      "illustration": "airport terminal departures"
+    }
+  ],
+  "breves": [
+    {
+      "titre": "Washington juge le prêt de 3,4 Md$ de la BEI à Airbus menaçant pour la trêve commerciale",
+      "resume": "Le représentant américain au Commerce, Jamieson Greer, a averti le 26 octobre que le financement européen d'Airbus pourrait menacer la trêve sur le commerce aéronautique avec l'Union européenne. La Banque européenne d'investissement a approuvé cette année un financement pouvant atteindre 3 Md€, soit environ 3,4 Md$. Les États-Unis disent ne pas avoir reçu les détails de l'accord malgré plusieurs demandes.",
+      "categorie": "Constructeurs & commandes",
+      "region": "Europe",
+      "sources": [
+        {
+          "nom": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/us-warns-3-4-billion-airbus-loan-threatens-aircraft-trade-truce"
+        }
+      ],
+      "illustration": "airplane factory trade"
+    },
+    {
+      "titre": "JetBlue affirme ne pas négocier avec ses créanciers, qui ont engagé des conseillers",
+      "resume": "La directrice générale de JetBlue, Joanna Geraghty, a déclaré à Reuters le 27 octobre que la compagnie ne discutait ni de restructuration avec ses créanciers ni d'aide financière publique. Ces propos font suite à une information de Bloomberg du 23 octobre selon laquelle un groupe de créanciers avait recruté des conseillers en restructuration. JetBlue a publié une perte trimestrielle plus profonde malgré une hausse des recettes et maintient son plan JetForward.",
+      "categorie": "Résultats & marchés",
+      "region": "Amérique du Nord",
+      "sources": [
+        {
+          "nom": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/jetblue-finances-creditors-restructuring-advisers"
+        },
+        {
+          "nom": "AirlineGeeks",
+          "url": "https://airlinegeeks.com/2026/10/28/jetblue-stays-course-on-jetforward-will-not-look-to-restructure-debt/"
+        }
+      ],
+      "illustration": "airplane tail sunset"
+    },
+    {
+      "titre": "Singapore Airlines achètera jusqu'à 4 800 tonnes de SAF issu du projet Beacon d'Aether",
+      "resume": "Singapore Airlines a conclu le 28 octobre un accord pour acheter jusqu'à 4 800 tonnes de carburant d'aviation durable de nouvelle génération auprès d'Aether Fuels, sur trois ans, avec des livraisons à partir de 2028. Elle devient la première compagnie cliente de Project Beacon, première unité commerciale d'Aether, en développement sur l'île de Pulau Bukom à Singapour.",
+      "categorie": "Innovation & environnement",
+      "region": "Asie-Pacifique",
+      "sources": [
+        {
+          "nom": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/singapore-airlines-becomes-first-airline-to-buy-saf-from-aethers-project-beacon"
+        }
+      ],
+      "illustration": "fuel refinery sunset"
+    },
+    {
+      "titre": "FlySafair prépare Johannesburg–Lusaka, sa première desserte vers la Zambie",
+      "resume": "La compagnie sud-africaine FlySafair prévoit de lancer le 1er février 2027 une liaison entre Johannesburg et Lusaka, en Zambie. Elle sera exploitée cinq fois par semaine en Boeing 737-800, selon les horaires déposés.",
+      "categorie": "Compagnies & réseaux",
+      "region": "Afrique",
+      "sources": [
+        {
+          "nom": "AeroRoutes",
+          "url": "https://www.aeroroutes.com/eng/261029-fa1q27lun"
+        }
+      ],
+      "illustration": "airplane runway takeoff"
+    }
+  ],
+  "numero": 4,
+  "date": "2026-11-01",
+  "debut": "2026-10-26",
+  "fin": "2026-11-01",
+  "genere_par": "claude-sonnet-5-5",
+  "genere_le": "2026-11-01T05:54:58+00:00",
+  "image": {
+    "fichier": "2026-11-01-couverture.jpg",
+    "auteur": "chrisjhorvath",
+    "page": "https://pixabay.com/photos/airplane-sunset-sky-plane-air-1938971/",
+    "source": "Pixabay"
+  }
+}

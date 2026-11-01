@@ -1,0 +1,61 @@
+{
+  "numero": 4,
+  "date": "2026-11-01",
+  "periode": "26 octobre au 1er novembre 2026",
+  "cartes": [
+    {
+      "jour": "lundi",
+      "type": "chiffre",
+      "fichier": "2026-11-01-1.jpg",
+      "url": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-1.jpg",
+      "story": "2026-11-01-1-story.jpg",
+      "url_story": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-1-story.jpg",
+      "legende": "+7,7 % : Progression de la demande mondiale de fret aérien en septembre 2026 sur un an, selon l'IATA, alors que le trafic passagers recule de 0,5 %.\n\nC'est le chiffre de la semaine ✈️\n\nÀ lire dans le N° 4 d'Hebdo Aero, avec toutes les sources : lien en bio 👉 hebdo-aero.github.io/Hebdo-Aero\n\n#aviation #aeronautique #avgeek #compagniesaeriennes #transportaerien"
+    },
+    {
+      "jour": "mardi",
+      "type": "une",
+      "fichier": "2026-11-01-2.jpg",
+      "url": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-2.jpg",
+      "story": "2026-11-01-2-story.jpg",
+      "url_story": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-2-story.jpg",
+      "legende": "Airbus : profit en baisse au 3e trimestre, objectif de 870 livraisons maintenu pour 2026\n\nAirbus a publié le 28 octobre ses résultats à neuf mois : le résultat d'exploitation ajusté du troisième trimestre recule de 9 %, à 1,77 Md€, avec des difficultés sur les A330neo et A321neo. Sur neuf mois, le bénéfice net atteint 3,59 Md€ (+36 %) pour un chiffre d'affaires de 50,6 Md€ (+7 %).\n\nÀ lire dans le N° 4 d'Hebdo Aero, avec toutes les sources : lien en bio 👉 hebdo-aero.github.io/Hebdo-Aero\n\nRésumés rédigés avec l'IA à partir des sources citées sur le site.\n\n#aviation #aeronautique #avgeek #compagniesaeriennes #transportaerien"
+    },
+    {
+      "jour": "mercredi",
+      "type": "une",
+      "fichier": "2026-11-01-3.jpg",
+      "url": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-3.jpg",
+      "story": "2026-11-01-3-story.jpg",
+      "url_story": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-3-story.jpg",
+      "legende": "Trafic de septembre : passagers en recul de 0,5 % dans le monde, fret en hausse de 7,7 %\n\nSelon l'IATA, la demande mondiale de transport de passagers a baissé de 0,5 % en septembre 2026 sur un an, un repli moins marqué qu'en août, avec le Moyen-Orient et l'Amérique du Nord en difficulté. La demande de fret aérien a progressé de 7,7 %, dans toutes les régions, mais les coûts augmentent.\n\nÀ lire dans le N° 4 d'Hebdo Aero, avec toutes les sources : lien en bio 👉 hebdo-aero.github.io/Hebdo-Aero\n\nRésumés rédigés avec l'IA à partir des sources citées sur le site.\n\n#aviation #aeronautique #avgeek #compagniesaeriennes #transportaerien"
+    },
+    {
+      "jour": "jeudi",
+      "type": "une",
+      "fichier": "2026-11-01-4.jpg",
+      "url": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-4.jpg",
+      "story": "2026-11-01-4-story.jpg",
+      "url_story": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-4-story.jpg",
+      "legende": "Lufthansa, SWISS et Eurowings repoussent au 25 novembre leur retour à Dubaï\n\nLes compagnies du groupe Lufthansa ont de nouveau reporté la reprise de leurs vols vers Dubaï, désormais fixée au 25 novembre 2026, en invoquant l'instabilité persistante au Moyen-Orient. Eurowings adopte en parallèle un programme d'hiver allégé. Les passagers concernés peuvent modifier leur réservation ou se faire rembourser.\n\nÀ lire dans le N° 4 d'Hebdo Aero, avec toutes les sources : lien en bio 👉 hebdo-aero.github.io/Hebdo-Aero\n\nRésumés rédigés avec l'IA à partir des sources citées sur le site.\n\n#aviation #aeronautique #avgeek #compagniesaeriennes #transportaerien"
+    },
+    {
+      "jour": "vendredi",
+      "type": "breves",
+      "fichier": "2026-11-01-5.jpg",
+      "url": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-5.jpg",
+      "story": "2026-11-01-5-story.jpg",
+      "url_story": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-5-story.jpg",
+      "legende": "Ce qu'il fallait aussi retenir cette semaine dans l'aviation commerciale ✈️\n\n▸ Washington juge le prêt de 3,4 Md$ de la BEI à Airbus menaçant pour la trêve commerciale\n▸ JetBlue affirme ne pas négocier avec ses créanciers, qui ont engagé des conseillers\n▸ Singapore Airlines achètera jusqu'à 4 800 tonnes de SAF issu du projet Beacon d'Aether\n▸ FlySafair prépare Johannesburg–Lusaka, sa première desserte vers la Zambie\n\nLes détails et les sources dans le N° 4 : lien en bio 👉 hebdo-aero.github.io/Hebdo-Aero\n\nRésumés rédigés avec l'IA à partir des sources citées sur le site.\n\n#aviation #aeronautique #avgeek #compagniesaeriennes #transportaerien"
+    },
+    {
+      "jour": "samedi",
+      "type": "demain",
+      "fichier": "2026-11-01-6.jpg",
+      "url": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-6.jpg",
+      "story": "2026-11-01-6-story.jpg",
+      "url_story": "http://hebdo-aero.github.io/Hebdo-Aero/cartes/2026-11-01-6-story.jpg",
+      "legende": "Demain matin, le N° 5 d'Hebdo Aero : toute l'actu de l'aviation commerciale de la semaine, résumée en 5 minutes et sourcée ✈️\n\nLien en bio pour ne pas le rater 👉 hebdo-aero.github.io/Hebdo-Aero\n\n#aviation #aeronautique #avgeek #compagniesaeriennes #transportaerien"
+    }
+  ]
+}
